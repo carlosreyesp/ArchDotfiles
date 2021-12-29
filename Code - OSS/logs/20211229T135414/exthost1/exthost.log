@@ -1,0 +1,7 @@
+[2021-12-29 13:54:25.282] [exthost] [info] Extension host with pid 6798 started
+[2021-12-29 13:54:25.283] [exthost] [info] Skipping acquiring lock for /home/kr/.config/Code - OSS/User/workspaceStorage/1fcd1904324984804f144bdd00c3affc.
+[2021-12-29 13:54:25.365] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-29 13:54:25.614] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-29 13:54:26.205] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-29 13:54:26.231] [exthost] [info] Eager extensions activated
+[2021-12-29 13:54:26.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

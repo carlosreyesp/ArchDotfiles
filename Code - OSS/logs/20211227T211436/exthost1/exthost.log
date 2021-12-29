@@ -1,0 +1,12 @@
+[2021-12-27 21:14:47.175] [exthost] [info] Extension host with pid 910 started
+[2021-12-27 21:14:47.175] [exthost] [info] Skipping acquiring lock for /home/kr/.config/Code - OSS/User/workspaceStorage/1fcd1904324984804f144bdd00c3affc.
+[2021-12-27 21:14:47.266] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-27 21:14:47.399] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-27 21:14:48.205] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-27 21:14:48.378] [exthost] [info] Eager extensions activated
+[2021-12-27 21:14:48.406] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 21:14:48.754] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-27 21:14:48.892] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-27 21:14:49.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-27 21:18:30.642] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-27 21:18:31.661] [exthost] [info] Extension host with pid 910 exiting with code 0

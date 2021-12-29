@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>Alacritty</icon>
+	<name>Open Terminal Here</name>
+	<unique-id>1640653773567591-1</unique-id>
+	<command>/usr/bin/alacritty</command>
+	<description>Terminal</description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>Open as root</name>
+	<unique-id>1640653906679723-1</unique-id>
+	<command>pkexec thunar %f</command>
+	<description>Thunar root</description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+</actions>
